@@ -12,12 +12,9 @@
 6. Далее снова открываем редактор файла и добавляем к указаному тексту $@ - "объединение всех аргументов"
 Это позволит нам вывести приветствие для любого введенного после команды bash script.bash2 имени
 ![image](https://github.com/user-attachments/assets/8d6446ca-bb08-4cf8-b5c4-33f97af8e823)
-
-![image](https://github.com/user-attachments/assets/599acbe0-d41e-423c-a4bd-bf141d235c98)
-
+7. Проверяем на работоспособность(успееех!)
 ![image](https://github.com/user-attachments/assets/58e23ba1-5a0f-47c6-952f-bec20bab2589)
-
-
+8. Далее можно увидеть все мои потуги понять как это работает и что с этим делать(это лучше не смотреть):
 ![image](https://github.com/user-attachments/assets/c75a9563-9e7f-40c5-a244-e6c94a4c9d70)
 ![image](https://github.com/user-attachments/assets/3abbdd18-22e7-495b-a850-1968a7871435)
 ![image](https://github.com/user-attachments/assets/f5376ae3-74b7-4be8-83ad-c0b0bbe95c6f)
