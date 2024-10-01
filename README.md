@@ -3,14 +3,14 @@
 ![image](https://github.com/user-attachments/assets/792e98e7-e839-48f6-8b64-8439ff868a84)
 2. Открываем редактор этого файла через nano
 ![image](https://github.com/user-attachments/assets/e4c71118-1a78-4d08-bff6-e07f2f4183ed)
-3. В редакторе 
+3. В редакторе вводим команду echo и указаный текст
 ![image](https://github.com/user-attachments/assets/8fabc623-83c8-4d14-b6ed-bf920f5c6014)
-
+4. Сохроняем изменения 
 ![image](https://github.com/user-attachments/assets/de9c9d35-cdb3-41bf-bc55-13c1b7ec532a)
-
+5. Проверяем работоспособность(успех!)
 ![image](https://github.com/user-attachments/assets/8e5c1c9c-430f-492b-a4da-fe9d7b139b51)
-
-
+6. Далее снова открываем редактор файла и добавляем к указаному тексту $@ - "объединение всех аргументов"
+Это позволит нам вывести приветствие для любого введенного после команды bash script.bash2 имени
 ![image](https://github.com/user-attachments/assets/8d6446ca-bb08-4cf8-b5c4-33f97af8e823)
 
 ![image](https://github.com/user-attachments/assets/599acbe0-d41e-423c-a4bd-bf141d235c98)
