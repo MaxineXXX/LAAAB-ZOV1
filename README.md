@@ -4,6 +4,11 @@
 2. Открываем редактор этого файла через nano
 ![image](https://github.com/user-attachments/assets/e4c71118-1a78-4d08-bff6-e07f2f4183ed)
 3. В редакторе 
+![image](https://github.com/user-attachments/assets/8fabc623-83c8-4d14-b6ed-bf920f5c6014)
+
+![image](https://github.com/user-attachments/assets/de9c9d35-cdb3-41bf-bc55-13c1b7ec532a)
+
+
 ![image](https://github.com/user-attachments/assets/8d6446ca-bb08-4cf8-b5c4-33f97af8e823)
 
 ![image](https://github.com/user-attachments/assets/599acbe0-d41e-423c-a4bd-bf141d235c98)
