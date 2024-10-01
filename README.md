@@ -1,8 +1,9 @@
 Лабораторная работа номер 1
+1. Создаем через терминал текстовый файл с названием script.bash2
 ![image](https://github.com/user-attachments/assets/792e98e7-e839-48f6-8b64-8439ff868a84)
-
+2. Открываем редактор этого файла через nano
 ![image](https://github.com/user-attachments/assets/e4c71118-1a78-4d08-bff6-e07f2f4183ed)
-
+3. В редакторе 
 ![image](https://github.com/user-attachments/assets/8d6446ca-bb08-4cf8-b5c4-33f97af8e823)
 
 ![image](https://github.com/user-attachments/assets/599acbe0-d41e-423c-a4bd-bf141d235c98)
