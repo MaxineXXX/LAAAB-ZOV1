@@ -1,4 +1,9 @@
 Лабораторная работа номер 1
+![image](https://github.com/user-attachments/assets/792e98e7-e839-48f6-8b64-8439ff868a84)
+
+![image](https://github.com/user-attachments/assets/e4c71118-1a78-4d08-bff6-e07f2f4183ed)
+
+![image](https://github.com/user-attachments/assets/8d6446ca-bb08-4cf8-b5c4-33f97af8e823)
 
 ![image](https://github.com/user-attachments/assets/c75a9563-9e7f-40c5-a244-e6c94a4c9d70)
 ![image](https://github.com/user-attachments/assets/3abbdd18-22e7-495b-a850-1968a7871435)
@@ -12,9 +17,9 @@
 ![image](https://github.com/user-attachments/assets/09a18c9d-98a3-4fe5-b2bc-7108635b02fc)
 ![image](https://github.com/user-attachments/assets/81bcbc3f-d079-4d89-94da-b18bd7eda94d)
 ![image](https://github.com/user-attachments/assets/0639f037-cf48-4709-b289-fc7980536656)
-![image](https://github.com/user-attachments/assets/8d6446ca-bb08-4cf8-b5c4-33f97af8e823)
+
 ![image](https://github.com/user-attachments/assets/599acbe0-d41e-423c-a4bd-bf141d235c98)
 ![image](https://github.com/user-attachments/assets/0281b3aa-f8fc-487b-b9cb-ae053bbaf03a)
-![image](https://github.com/user-attachments/assets/e4c71118-1a78-4d08-bff6-e07f2f4183ed)
-![image](https://github.com/user-attachments/assets/792e98e7-e839-48f6-8b64-8439ff868a84)
+
+
 ![image](https://github.com/user-attachments/assets/bded4161-fe02-4c0e-946e-0f0d02e31fcf)
